@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diluk-priyanath&label=Profile%20views&color=0e75b6&style=flat" alt="diluk-priyanath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diluk-priyanath" alt="diluk-priyanath" /></a> </p>
+
 
 - 📫 How to reach me **dilukpriyanath26@gmail.com**
 
