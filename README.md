@@ -40,6 +40,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diluk-priyanath&" alt="diluk-priyanath" /></p>
 
+
+
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/> <br><br>
+	🎉 Woohoo! You’ve reached the bottom! Now, the only way is up...<br>unless you're a kangaroo, in which case, you're already bouncing! 🦘😆
 </p>
+
+ 
