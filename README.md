@@ -1,10 +1,21 @@
 <p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h1 align="center">Hi 👋, I'm Diluk Priyanath</h1>
-<h3 align="center">Mastering the Art of Code | AI Enthusiast | Tech Innovator</h3>
+<h3 align="center">Mastering the Art of Code | AI/ML Enthusiast | Tech Innovator</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diluk-priyanath&label=Profile%20views&color=0e75b6&style=flat" alt="diluk-priyanath" /> </p>
 
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am an `Undergraduate ` at *University of Colombo*.
+- :computer: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Information Technology`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`,
+
+<br>
 
 - 📫 How to reach me **dilukpriyanath26@gmail.com**
 
@@ -28,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diluk-priyanath&show_icons=true&locale=en" alt="diluk-priyanath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diluk-priyanath&" alt="diluk-priyanath" /></p>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
