@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 160px></p>
+<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 <h1 align="center">Hi 👋, I'm Diluk Priyanath</h1>
 <h3 align="center">Mastering the Art of Code | AI Enthusiast | Tech Innovator</h3>
 
