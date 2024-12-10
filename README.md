@@ -30,6 +30,9 @@
   <a href="https://linkedin.com/in/diluk-priyanath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://stackoverflow.com/users/28563023/diluk-priyanath?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
   <a href="https://medium.com/@dilukpriyanath26" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
