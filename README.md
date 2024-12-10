@@ -39,9 +39,7 @@
   <a href="https://www.youtube.com/c/@dilukpriyanath" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.hackerrank.com/@dilukpriyanath26" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
-  </a>
+
 </p>
 
 
