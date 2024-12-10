@@ -42,9 +42,6 @@
   <a href="https://www.hackerrank.com/@dilukpriyanath26" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
-  <a href="https://www.hackerearth.com/@dilukpriyanath26" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-%23494649.svg?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>
 </p>
 
 
